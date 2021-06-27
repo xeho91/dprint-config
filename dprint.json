@@ -26,6 +26,10 @@
 		"**/dist",
 		"**/lib",
 		"**/node_modules",
+		".husky/**/*",
+		".svelte-kit/**/*",
+		".vercel/**/*",
+		".vercel_build_output/**/*",
 		"**/*-lock.json"
 	]
 }
