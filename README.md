@@ -12,7 +12,9 @@
 // .dprint.json
 
 {
-	"extends": "https://github.com/xeho91/dprint-config/blob/main/dprint.json"
+	"$schema": "https://dprint.dev/schemas/v0.json",
+	"extends": "https://github.com/xeho91/dprint-config/blob/main/dprint.json",
+	"incremental": true
 }
 ```
 
