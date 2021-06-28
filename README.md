@@ -13,7 +13,7 @@
 
 {
 	"$schema": "https://dprint.dev/schemas/v0.json",
-	"extends": "https://github.com/xeho91/dprint-config/blob/main/dprint.json",
+	"extends": "https://raw.githubusercontent.com/xeho91/dprint-config/main/dprint.json",
 	"incremental": true
 }
 ```
